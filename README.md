@@ -30,11 +30,16 @@ The great thing about Tableau software is that it does not require any technical
 When I saw the data, I asked myself some questions: What do I want to show with this data? What takeaways do I want my audience to grab? How can I make it visually appealing?
 
 # Primary Dashboard:
+![](Dashboards/Primary%20Dashboard-%20%20COVID-19-Tracker.png)
 My main aim is to focus the audience’s attention on the number of cases, and details based on the different states and the county-wise details of each state based upon   the user’s interest. The data can tell which states have the most and least number of cases, deaths, and how well the condition is by calculating the mortality rate as well. There are two dashboards here: the first one is the entire view of the United States where you can see the total number of cases and deaths overall U.S. and the current mortality rate. On the right side of the dashboard, you can see the top 5 states with the highest number of cases and 5 states with the least mortality rate.
 
 # Secondary Dashboard:
+![](Dashboards/Secondary%20Dashboard-%20COVID-19%20Tracker.png)
 When you click on the red state bubble which represents the number of cases, you come to the second dashboard where you see the state-wise details showing you the number of cases in that state, the deaths, and mortality rate. You see the state map highlighted with the county which is worst hit by COVID-19. On the left side, you can see how the cases and deaths went increasing day by day. And the county wise report is generated on the right side of the dashboard. I have specifically used the blue color to show the number of cases and red color to show the number of deaths.
 
-When you want to go back to the primary dashboard, you have a back button to “Go back to Primary Dashboard.” Now you can see the overall U.S. dashboard and click on another state to get the granular details again. This is the working of my COVID-19 dashboard. 
+When you want to go back to the primary dashboard, you have a back button to “Go back to Primary Dashboard.” Now you can see the overall U.S. dashboard and click on another state to get the granular details again. 
+
+This is the working of my COVID-19 dashboard. You can play with the dashboard and I would love to hear your feedback or suggestions. 
+You can coonect with me on <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
 
