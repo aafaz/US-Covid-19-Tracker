@@ -41,7 +41,7 @@ When you click on the red state bubble which represents the number of cases, you
 
 When you want to go back to the primary dashboard, you have a back button to “Go back to Primary Dashboard.” Now you can see the overall U.S. dashboard and click on another state to get the granular details again. 
 
-This is the working of my COVID-19 dashboard. You can play with the dashboard here : https://tabsoft.co/3eroWKQand I would love to hear your feedback or suggestions. 
+This is the working of my COVID-19 dashboard. You can play with the dashboard here : https://tabsoft.co/3eroWKQ and I would love to hear your feedback or suggestions. 
 You can connect with me on <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
 
