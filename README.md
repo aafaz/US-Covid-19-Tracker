@@ -6,6 +6,8 @@ Covid-19 has shown the importance of dashboards and visualization for everyone. 
 
 The goal of this project is to build a dashboard showing the impact of COVID-19 in real time throughout the United States and thus educate people about the pandemic.
 
+![](Dashboards/Demo%20of%20US%20COVID%2019%20Dashboard.gif)
+
 Dashboard Link: https://tabsoft.co/3eroWKQ
 
 # Learning Areas: 
